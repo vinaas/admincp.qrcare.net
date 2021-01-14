@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Easycode",
-  "short_name": "Easycode",
+  "name": "QRCare",
+  "short_name": "QRCare",
   "version": "com.example.template",
-  "description": "Qr Code Solutions",
-  "author": "Apache Cordova Team",
+  "description": "QRCare: we help suppliers to help their customers more effective on using devices",
+  "author": "VinaAS Dev Team",
   "icons": [
     {
       "src": "res/icon.png",

@@ -2,12 +2,12 @@
 <widget id="com.example.template" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <hook src="hooks/hookers.js" type="before_prepare" />
     <hook src="hooks/beforedep.js" type="before_deploy" />
-    <name>Easycode</name>
+    <name>QRCare</name>
     <description>
-        Qr Code Solutions
+        QRCare: we help suppliers to help their customers more effective on using devices
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="contact@vinaas.com" href="https//vinaas.com">
+        VinaAS Dev Team 
     </author>
     <content src="index.html" />
     <icon platform="android" src="res/icon.png" />
